@@ -1,0 +1,21 @@
+{
+    "name": "linklinker/wikisemantics",
+    "description": "Class to rewrite wikitext to a semantical represenation in PHP",
+    "authors": [
+        {
+            "name": "Jevon van Dijk",
+            "email": "jevon@linklinker.com"
+        }
+    ], 
+    "support": {
+	  	"email": "support@atabix.com"
+    },
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+         "psr-4": {
+              "WikiSemantics\\": "src/WikiSemantics"
+         }
+    }
+}
