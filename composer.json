@@ -10,7 +10,13 @@
     "support": {
 	  	"email": "support@atabix.com"
     },
+    "repositories": [
+
+    ],
     "require": {
+        "guzzlehttp/guzzle": "*",
+        "slim/slim": "^3.0",
+        "mongodb/mongodb": "1.*"
     },
     "minimum-stability": "dev",
     "autoload": {
